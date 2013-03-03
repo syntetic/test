@@ -1,4 +1,6 @@
 <?php
+namespace Syntetic;
+
 class Test
 {
     public function show()
